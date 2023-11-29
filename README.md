@@ -44,3 +44,9 @@ Para executar este aplicativo Flutter, siga as etapas abaixo:
 flutter pub get
 
 flutter run
+
+### APK para instalação
+
+- **Para instalar:** O apk do projeto é disponibilizador aqui dentro desse diretório.
+<img width="283" alt="image" src="https://github.com/DavidCarrilho/app_book/assets/20521609/28b5adbf-c871-4d2b-903a-6a363ef512fd">
+
